@@ -1,0 +1,19 @@
+{
+  "name": "horizon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dankmemes": "^1.0.0",
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.0.0",
+    "google-images": "^2.1.0",
+    "rand-token": "^0.4.0"
+  }
+}
